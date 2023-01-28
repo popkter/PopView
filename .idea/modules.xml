@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ColorPickView/ColorPickView.ColorPickView.iml" filepath="$PROJECT_DIR$/.idea/modules/ColorPickView/ColorPickView.ColorPickView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.androidTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/colorpickerview/ColorPickView.colorpickerview.unitTest.iml" />

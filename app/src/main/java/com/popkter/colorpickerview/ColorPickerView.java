@@ -98,14 +98,6 @@ public class ColorPickerView extends View {
             types.recycle(); // TypeArray用完需要recycle
         }
 
-        //此处根据UI要求，可使用UI图片代替绘制取色盘
-        // 将背景图片大小设置为属性设置的直径
-        //mBitmapBack = BitmapFactory.decodeResource(getResources(),
-        //       R.drawable.hsb_circle_hard);
-        //mBitmapBack = Bitmap.createScaledBitmap(mBitmapBack, mBigCircle * 2,
-        //       mBigCircle * 2, false);
-
-
         // 中心位置坐标
         mCenterPoint = new Point(mBigCircle, mBigCircle);
         mRockPosition = new Point(mCenterPoint);
