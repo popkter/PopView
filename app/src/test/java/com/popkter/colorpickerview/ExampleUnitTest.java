@@ -1,4 +1,4 @@
-package com.popkter.colorpickview;
+package com.popkter.colorpickerview;
 
 import org.junit.Test;
 

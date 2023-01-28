@@ -10,10 +10,7 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven { url 'https://jitpack.io' }
     }
 }
-rootProject.name = "ColorPickView"
+rootProject.name = "colorpickerview"
 include ':app'
-include ':ColorPickView'
-include ':colorpickerview'
