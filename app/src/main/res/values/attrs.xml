@@ -12,4 +12,17 @@
         <!-- 圆环的半径 -->
         <attr name="ring_radius" format="dimension" />
     </declare-styleable>
+
+
+    <declare-styleable name="rounded_image_view">
+        <!--是否是圆形，会覆盖圆角属性-->
+        <attr name="circle" format="boolean" />
+        <!--圆角半径-->
+        <attr name="radius" format="dimension" />
+        <!--border宽度-->
+        <attr name="border_width" format="dimension" />
+        <!--border颜色-->
+        <attr name="border_color" />
+    </declare-styleable>
+
 </resources>
