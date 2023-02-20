@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "colorpickerview"
-include ':app'
+include ':module'
