@@ -13,7 +13,7 @@ import android.graphics.Shader;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.util.AttributeSet;
-import com.popkter.popview.R;
+import com.popkter.colorpickerview.R;
 
 import androidx.appcompat.widget.AppCompatImageView;
 

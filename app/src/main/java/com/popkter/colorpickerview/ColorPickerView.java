@@ -20,7 +20,7 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
-import com.popkter.popview.R;
+import com.popkter.colorpickerview.R;
 
 /**
  * 取色环自定义View

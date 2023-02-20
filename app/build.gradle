@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.popkter.popview'
+    namespace 'com.popkter.colorpickerview'
     compileSdk 32
 
     defaultConfig {
